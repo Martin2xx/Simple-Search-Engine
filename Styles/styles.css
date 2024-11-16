@@ -1,0 +1,17 @@
+.main-title {
+    color:darkolivegreen;
+    text-align: center;
+    margin: 5rem;
+}
+
+.main-nav-bar {
+    background-color: darkslategray;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.search-form{
+    text-align: center;
+}
