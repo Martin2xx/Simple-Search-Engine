@@ -20,12 +20,13 @@ body {
 
 .search-form{
     text-align: center;
+    margin-bottom: 2rem;
 }
 
 #giphySection{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    margin-bottom: 2rem;
     margin-top: 2rem;
     justify-content: space-around;
 }
