@@ -21,3 +21,10 @@ body {
 .search-form{
     text-align: center;
 }
+
+#giphySection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2rem;
+}
