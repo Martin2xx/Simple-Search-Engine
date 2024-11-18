@@ -15,7 +15,8 @@ body {
     padding: 10px;
     text-align: center;
     font-weight: bold;
-    
+    flex-wrap: wrap;
+
 }
 
 .search-form{
@@ -29,4 +30,34 @@ body {
     margin-bottom: 2rem;
     margin-top: 2rem;
     justify-content: space-around;
+}
+.link1{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#css-link22{
+    color: white;
+}
+
+.link2{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.link3{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 10px;
+}
+#link5{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 10px;
 }
