@@ -2,7 +2,7 @@ async function searchGiphys(event) {
     event.preventDefault();  
     const myApiKey = "NV4Ys85GdAYoR83pCu9Dsk6Bo9H6xnQw";
     const userSearches = document.getElementById("search-box").value;
-    const searchUrl = `https://api.giphy.com/v1/gifs/search?q=${userSearches}&api_key=${myApiKey}&q=&limit=25`;
+    const searchUrl = `https://api.giphy.com/v1/gifs/search?q=${userSearches}&api_key=${myApiKey}`;
     
   
     try {
